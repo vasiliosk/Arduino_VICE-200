@@ -18,19 +18,19 @@ Repository for the **VICE-200** board package (“boardfile”) for use in the *
 ## Using the VICE-200 board + example sketch
 
 1. In Arduino IDE, select the VICE-200 board from **Tools → Board** (it will appear once the hardware package is installed).
-2. Open the example sketch:
+2. Open the example sketch in the example folder:
 
-   - **`Vice-200-Sketch-Example`**
+   - **`blink_Test.ino`**
 
 3. Build and upload as normal.
 
 ### Screenshots
 
-**Example sketch location / usage:**
+**Board Selection in Boards Option:**
 
 ![Vice-200-Sketch-Example](images/Vice-200-Sketch-Example.png)
 
-**Board selection:**
+**Board Detected Correctly at COM7 under VICE-200:**
 
 ![Vice-200-board](images/Vice-200-board.png)
 
