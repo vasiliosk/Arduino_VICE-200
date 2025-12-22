@@ -36,6 +36,6 @@ Repository for the **VICE-200** board package (“boardfile”) for use in the *
 
 ## Bootloader firmware
 
-The bootloader hex is included in this repository here:
+The bootloader hex is included in this repository here.  All VICE-200 modules shipped should already have this bootloader installed:
 
 `EOTAK-mbed\mbed_nano\bootloaders\nano33ble\bootloader.hex`
